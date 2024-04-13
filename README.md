@@ -1,1 +1,39 @@
+# Ai Engineer
+
+## Projects
+### Natural Language Processing Projects
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
+- Project 6
+- Project 7
+
+### Computer Vision Projects
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
+- Project 6
+- Project 7
+
+### Flutter & Android Studio Projects
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
+- Project 6
+- Project 7
+
+### Express & NextJs Projects
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
+- Project 6
+- Project 7
 
