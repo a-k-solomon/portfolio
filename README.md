@@ -19,7 +19,7 @@
 - Project 6
 - Project 7
 
-### Flutter & Android Studio Projects
+### Flutter & Android Studio Projects (Those web apps contain ai APIs)
 - Project 1
 - Project 2
 - Project 3
@@ -28,7 +28,7 @@
 - Project 6
 - Project 7
 
-### Express & NextJs Projects
+### ExpressJs & NextJs Projects (Those web apps contain ai APIs)
 - Project 1
 - Project 2
 - Project 3
